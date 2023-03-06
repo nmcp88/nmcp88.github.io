@@ -4,10 +4,13 @@ on:
   push:
     branches:
       - main  # Set a branch to deploy
+  pull_request:
 
 jobs:
-  hugo-deploy:
-    runs-on: ubuntu-latest
+  deploy:
+    runs-on: ubuntu-22.04
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
     steps:
       - name: Checkout
         uses: actions/checkout@v3

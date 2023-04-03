@@ -3,7 +3,7 @@ title: BacalhauNet - A Tiny CNN for Lightning-Fast Modulation Classification
 subtitle: Winning submission of the ITU-ML5G-PS-007 "AI for Good Machine Learning in 5G Challenge"
 
 # Summary for listings and search engines
-summary: This is the winning submission of the [ITU-ML5G-PS-007 "AI for Good Machine Learning in 5G Challenge"](https://challenge.aiforgood.itu.int/match/matchitem/34), where Neural Networks deployed to FPGAs are used to classify radio signal modulations, using the [DeepSig RadioML 2018 dataset](https://www.deepsig.ai/datasets). The submission won first place in two evaluation rounds, consisting of over 30 teams from all over the world. The submission presentation is [publicaly available](https://www.youtube.com/watch?v=Mn4_1YeS-IM).
+summary: This is the winning submission of the [ITU-ML5G-PS-007 "AI for Good Machine Learning in 5G Challenge"](https://challenge.aiforgood.itu.int/match/matchitem/34), where Neural Networks deployed to FPGAs are used to classify radio signal modulations, using the [DeepSig RadioML 2018 dataset](https://www.deepsig.ai/datasets). The submission won first place in two evaluation rounds, consisting of over 30 teams from all over the world. The submission presentation is [publicly available](https://www.youtube.com/watch?v=Mn4_1YeS-IM).
 
 # Link this post with a project
 projects: []

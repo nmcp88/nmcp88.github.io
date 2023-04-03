@@ -1,5 +1,5 @@
 ---
-title: Awards
+title: Talks & Awards
 cms_exclude: true
 
 # View.

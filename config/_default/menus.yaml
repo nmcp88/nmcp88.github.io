@@ -25,6 +25,9 @@ main:
   - name: Teaching Material
     url: 'material'
     weight: 50
+  - name: Awards
+    url: 'awards'
+    weight: 55    
   - name: Contact
     url: '#contact'
     weight: 60    

@@ -1,5 +1,5 @@
 ---
-title: BacalhauNet: A Tiny CNN for Lightning-Fast Modulation Classification
+title: BacalhauNet - A Tiny CNN for Lightning-Fast Modulation Classification
 subtitle: Winning submission of the ITU-ML5G-PS-007 "AI for Good Machine Learning in 5G Challenge"
 
 # Summary for listings and search engines

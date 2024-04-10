@@ -30,7 +30,7 @@ education:
   - course: PhD in Electrical and Computer Engineering
     institution: University of Porto (UP)
     year: 2015
-  - course: MsC. in Electrical and Computer Engineering
+  - course: M.Sc. in Electrical and Computer Engineering
     institution: University of Porto (UP)
     year: 2012
 

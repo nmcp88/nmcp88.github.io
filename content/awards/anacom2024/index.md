@@ -1,5 +1,5 @@
 ---
-title: Approaches for Heterogeneous Systems
+title: Prémio ANACOM-URSI Portugal 2024
 
 # Summary for listings and search engines
 summary: Prémio ANACOM-URSI Portugal 2024
@@ -33,11 +33,13 @@ authors:
 - admin
 
 tags:
-- Teaching
-- C/C++
+- Telecommunication
+- Award
+- Machine Learning
+- Sensing
 
 categories:
-- Teaching
+- Award
 
 links:
   - icon_pack: fa

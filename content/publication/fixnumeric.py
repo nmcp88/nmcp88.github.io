@@ -9,6 +9,7 @@ CSL_TO_NUMERIC = {
     "thesis": "5",
     "report": "6",
     "other": "7",
+    "manuscript": "0"
 }
 
 def fix_publication_types(folder):

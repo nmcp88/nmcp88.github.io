@@ -6,14 +6,15 @@ title: Nuno M.C. Paulino
 superuser: true
 
 # Role/position/tagline
-role: Professor Auxiliar Convidado, DEI
+# role: Professor Auxiliar Convidado, DEI
+role: Doctorate Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Faculdade de Engenharia da Universidade do Porto (FEUP)
-  url: https://www.fe.up.pt/
 - name: INESC TEC
   url: https://www.inesctec.pt/
+- name: Faculdade de Engenharia da Universidade do Porto (FEUP)
+  url: https://www.fe.up.pt/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include tools and compiler for hardware, accelerator design, and edge and HPC computing.

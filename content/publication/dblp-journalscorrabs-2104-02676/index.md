@@ -1,38 +1,15 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: 'Building Beyond HLS: Graph Analysis and Others'
-subtitle: ''
-summary: ''
 authors:
 - Pedro Filipe Silva
 - João Bispo
 - Nuno Miguel Cardanha Paulino
-tags: []
-categories: []
 date: '2021-01-01'
-lastmod: 2021-10-18T19:01:20+01:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2021-10-18T18:01:20.435261Z'
+publishDate: '2025-07-29T08:25:18.044635Z'
 publication_types:
-- '2'
-abstract: ''
+- article-journal
 publication: '*CoRR*'
-url_pdf: https://arxiv.org/abs/2104.02676
+links:
+- name: URL
+  url: https://arxiv.org/abs/2104.02676
 ---
